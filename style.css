@@ -1,0 +1,125 @@
+
+body{
+  background-image: url(data:image/jpeg;base64,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) ;
+
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 600px;
+  text-align: center;
+  
+}
+#container{
+ 
+  position:relative;
+
+}
+h1{
+  background-color: rgb(145, 61, 1);
+  color: white;
+}
+h2{border-radius: 20px;
+  background-color: rgba(0, 0, 0, 0.555);
+  color: white;
+  margin-top: 10%
+}
+.inicial{
+  border-radius: 20px;
+  margin-top: 10%;
+  margin-left: 30%;
+ margin-right:30% ;
+  width: 30%;
+  height: 20%;
+  background-color: rgba(104, 48, 2, 0.781);
+}
+button{
+  color: white;
+  width: 120px;
+  height: 25px;
+  border-radius: 20px;
+  background-color:rgba(255, 255, 255, 0.596);
+}
+a{font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 120%;
+  color: rgb(0, 0, 0);
+}
+a:hover{
+  
+  color: rgb(255, 255, 255);
+}
+button:hover{
+background-color: rgb(0, 0, 0);
+}
+#autoral{
+  padding-top: 90px;
+}
+
+/*proximos estilos será do cardápio*/
+
+.cardapio{
+  border-radius: 20px;
+  margin-left: 20%;
+ margin-right:20% ;
+  width: 60%;
+  height: 10%;
+  background-color: rgba(104, 48, 2, 0.616);
+}
+span{
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  font-size: 160%;
+}
+.prato{
+  margin-top: 5%;
+}
+/* Estilos para a tabela */
+table {
+  width: 100%;
+  border-collapse:collapse;
+}
+td {
+  border: 5px solid #924e00;
+  padding: 10px;
+}
+/* Estilos para as imagens */
+img {
+  max-width: 100%;
+  height: auto;
+}
+.img:hover {transform: scale(1.1)}
+  /* Estilos para o cardápio */
+  .cardapio {
+      display: block;
+      width: 90%;
+      margin: 0 auto;
+      text-align: center;
+    }
+
+    /*Estilo para o contato*/
+    .con{
+      border-radius: 20px;
+  margin-top: 10%;
+  margin-left: 30%;
+ margin-right:50% ;
+
+  width: 40%;
+  height: 40%;
+  background-color: rgba(104, 48, 2, 0.781);
+      text-align: center;
+     
+    }
+
+      .con button{
+        margin-block-end: 2%;
+        background-color: rgba(97, 65, 24, 0.842);
+        width: 50%px;
+        height: 30%;
+      }
+      .con a:hover{
+  
+        color: rgb(139, 139, 137);
+      }
+      .con button:hover{
+      background-color: rgb(0, 0, 0);
+      }
+    
